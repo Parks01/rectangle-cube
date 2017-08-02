@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/rectangle-cube/bin/Debug/netcoreapp1.1/Rectangle-Cude.deps.json
+/Users/Guest/Desktop/rectangle-cube/bin/Debug/netcoreapp1.1/Rectangle-Cude.runtimeconfig.json
+/Users/Guest/Desktop/rectangle-cube/bin/Debug/netcoreapp1.1/Rectangle-Cude.runtimeconfig.dev.json
+/Users/Guest/Desktop/rectangle-cube/bin/Debug/netcoreapp1.1/Rectangle-Cude.dll
+/Users/Guest/Desktop/rectangle-cube/bin/Debug/netcoreapp1.1/Rectangle-Cude.pdb
+/Users/Guest/Desktop/rectangle-cube/obj/Debug/netcoreapp1.1/Rectangle-Cude.AssemblyInfo.cs
+/Users/Guest/Desktop/rectangle-cube/obj/Debug/netcoreapp1.1/Rectangle-Cude.dll
+/Users/Guest/Desktop/rectangle-cube/obj/Debug/netcoreapp1.1/Rectangle-Cude.pdb
